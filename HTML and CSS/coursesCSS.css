@@ -1,0 +1,30 @@
+body{
+    background-color: lightgrey;
+    color: darkgoldenrod/*Text color*/;
+    text-align: center;
+    align-items: center;
+    
+}
+table,th,td{
+    border: 2px solid black;
+
+}
+td{
+    padding: 5px;
+    font-size: 17px;
+}
+th{
+    padding:10px;
+    font-size: 20px;
+}
+table{
+    width: 70%  /*of screen*/;
+    margin-top: 20px !important;
+    margin: auto
+    
+   
+}
+h1{
+    color: darkslateblue;
+    font-family: Bradley hand ITC /* Jokerman*/;
+    }
